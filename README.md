@@ -1,10 +1,10 @@
-Made by: Lorenzik
 
-# TikTok Mass Report Bot
+
+# TikTok Report Bot
 
 ## Installation
 ```
-  git clone https://github.com/Lorenzik/TikTok-Mass-Report-Bot
+  git clone https://github.com/Felyxh/tiktok
   cd TMRB
   npm i
   node .
