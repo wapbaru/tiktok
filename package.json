@@ -6,19 +6,19 @@
     "https-proxy-agent": "^5.0.1",
     "node-fetch": "^3.2.10"
   },
-  "name": "tiktok-mass-report-bot",
+  "name": "tiktok-report",
   "version": "1.2.1",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Lorenzik",
+  "author": "DediRohadi",
   "license": "ISC",
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lorenzik/TikTok-Mass-Report-Bot.git"
+    "url": "git+https://github.com/Felyxh/tiktok.git"
   },
   "keywords": [
     "tiktok",
@@ -26,8 +26,8 @@
     "tiktok-bulk-report"
   ],
   "bugs": {
-    "url": "https://github.com/Lorenzik/TikTok-Mass-Report-Bot/issues"
+    "url": "https://github.com/Felyxh/tiktok/issues"
   },
-  "homepage": "https://github.com/Lorenzik/TikTok-Mass-Report-Bot#readme",
+  "homepage": "https://github.com/Felyxh/tiktok#readme",
   "description": ""
 }
