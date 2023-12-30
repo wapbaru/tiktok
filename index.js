@@ -6,7 +6,7 @@ import gradient from 'gradient-string'
 import readline from 'readline'
 
 process.stdout.write(
-  String.fromCharCode(27) + "]0;" + `TikTok Mass Report Bot | Reports: 0 | Speed: 0/m` + String.fromCharCode(7)
+  String.fromCharCode(27) + "]0;" + `TikTok Report Bot | Reports: 0 | Speed: 0/m` + String.fromCharCode(7)
 );
 
 console.error = function() {}
