@@ -25,7 +25,7 @@ function ascii() {
   `)
   console.log(ascii)
   console.log(chalk.grey('----------------------------------------------------------------------------------------------------------------------'))
-  console.log(chalk.white('    https://github.com/Lorenzik/TMRB'),chalk.grey(" | "),chalk.white('https://github.com/Lorenzik/TMRB'),chalk.grey(" | "),chalk.white('https://github.com/Lorenzik/TMRB'),)
+  console.log(chalk.white('   Author : Dedi Rohadi'),)
   console.log(chalk.grey('----------------------------------------------------------------------------------------------------------------------\n'))
 }
 
