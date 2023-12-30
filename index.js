@@ -61,7 +61,7 @@ setInterval(() => {
 
   setInterval(() => {
     process.stdout.write(
-      String.fromCharCode(27) + "]0;" + `TikTok Mass Report Bot | Reports: ${reportCount} | Speed: ${reportsPerSecond*6}/m` + String.fromCharCode(7)
+      String.fromCharCode(27) + "]0;" + `TikTok Report | Reports: ${reportCount} | Speed: ${reportsPerSecond*6}/m` + String.fromCharCode(7)
     );
     reportsPerSecond = 0
   }, 10000);
